@@ -1,6 +1,6 @@
 #!/bin/sh
 
-GIT_ACCOUNT=offensive-security
+GIT_ACCOUNT=Alann200
 GIT_REPOSITORY=nethunter-devices
 
 ABORT() {
